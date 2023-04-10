@@ -9,7 +9,7 @@ The main functions (in MATLAB and/or R) in the "scripts" folder generate Fig.2, 
 
 Any comments/queries can be sent to: enrico.amico@epfl.ch
 
-version 1.0 (April 12, 2023)
+version 1.0 (April 11, 2023)
 
 **Please cite us**! 
 
